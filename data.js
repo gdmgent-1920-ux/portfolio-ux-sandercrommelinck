@@ -51,13 +51,13 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
+                "href": "./assignments/assignment2/documents/inspiratie.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/",
+                "href": "./assignments/assignment2/documents/sneaker-store.xd",
             },
             {
                 "text": "Adobe XD Prototype",
