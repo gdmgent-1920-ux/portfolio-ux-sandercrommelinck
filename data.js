@@ -88,12 +88,12 @@ const data = {
             {
                 "text": "Adobe XD (met Visual Designs)",
                 "title": "Mijn Adobe XD document voor de visual designs van mijn applicatie",
-                "href": "./assignments/assignment3/documents/designs.xd",
+                "href": "./assignments/assignment3/documents/designs-v2.xd",
             },
             {
                 "text": "Website",
                 "title": "Mijn website voor opdracht 3",
-                "href": "./assignments/assignment3/website/index.html",
+                "href": "./assignments/assignment3/website/website/home.html",
                 "target": "_blank"
             }
         ]
